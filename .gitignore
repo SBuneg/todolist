@@ -36,6 +36,8 @@ build/
 .gigaide
 
 .env
+.env.*
+!.env.example
 
 
 
