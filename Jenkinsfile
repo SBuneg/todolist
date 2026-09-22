@@ -1,1 +1,0 @@
-HashMap<String, Object> pipelineParameters = new HashMap<>()
